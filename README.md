@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Traffic Volume Forecasting Using Machine Learning
 
 A local Streamlit GUI for estimating hourly traffic volume from user-entered date,
@@ -96,3 +97,6 @@ changes in traffic patterns or conditions not represented by the dataset.
 ```powershell
 python -m unittest discover -s tests -v
 ```
+=======
+# Traffic
+>>>>>>> 9e016ac66d7cd73dc9ca0b726b4f1a85c1337006
